@@ -1,0 +1,9 @@
+Autor: Ramiro Sebastian Gaspar
+Fecha: 27/08/24
+Proyecto: Chaleco SOC
+Institucion: E.E.T 3139 Gral. M.M de Guemes, Salta Capital
+
+Propósito: Esta app móvil es esencial para el funcionamiento del proyecto del ChalecoSOC. La argumentación esta mejor explicada en el informe principal. Pero en pocas palabras esta app manda señales bt a el microcontrolador en forma de letras.
+
+Notas: La app solo funciona en dispositivos con Android, por ahora no anda en otros sistemas operativos.
+

@@ -1,0 +1,8 @@
+Autor: Ramiro Sebastian Gaspar
+Fecha: 27/08/24
+Proyecto: Chaleco SOC
+Institucion: E.E.T 3139 Gral. M.M de Guemes, Salta Capital
+Version: 1.0 (version final)
+
+Propostio: El Excel se realizo con el objetivo de facilitar los procesos de diseñar los elementos, dibujos y animaciones que aparecen en el chalecoSOC. Ya que tiene una sección donde se puede pintar las celdas con los colores dados y que admiten los leds. Se consigue un estilo PixelArt con esto, asi no es necesario tener tanta habilidad en el dibujo.
+
